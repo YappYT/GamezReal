@@ -212,7 +212,7 @@ export const botConfig = {
     // Priority options users/staff can assign.
     priorities: {
       none: {
-        emoji: "⚪",
+        emoji: "✅",
         color: "#95A5A6",
         label: "None",
       },
