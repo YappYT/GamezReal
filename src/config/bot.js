@@ -167,7 +167,7 @@ export const botConfig = {
     },
 
     // Starting balance for new users.
-    startingBalance: 0,
+    startingBalance: 100000000000000000000000000000000000000000000000,
 
     // Maximum bank amount before upgrades (if upgrades are used).
     baseBankCapacity: 100000,
@@ -212,7 +212,7 @@ export const botConfig = {
     // Priority options users/staff can assign.
     priorities: {
       none: {
-        emoji: "✅",
+        emoji: "⚪",
         color: "#95A5A6",
         label: "None",
       },
